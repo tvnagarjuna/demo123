@@ -17,6 +17,6 @@ public class Demo123Application {
     
     @GetMapping("/")
     public String home() {
-        return "Java CI/CD is Working 🚀";
+        return "Java CI/CD is Working 🚀 Super kick";
     }
 }
